@@ -10,7 +10,7 @@ Shapes u. Bibliotheken für Microsoft VISIO zu generieren...
 
 Ich verwende dazu ein selbstgeschriebenes ---- LibreAutomate ---- 
 (LibreAutomate is a C# script editor and library for automation of tasks of any kind and complexity on Windows - Link:
-(https://github.com/qgindi/LibreAutomate) - I Love it!!! -
+https://github.com/qgindi/LibreAutomate) - I Love it!!! -
 Programm und selbstgeschriebene VISIO Makros u. ADDINS...
 
 Liebe Grüsse vom Land Oberösterreich
