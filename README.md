@@ -1,0 +1,3 @@
+Habe mir erlaubt, aus den Taktischen Zeichen für draw.io - von MartinBoehmer, Shapes u. Bibliotheken für Microsoft VISIO zu generieren...
+
+lg. M. Schindlauer
