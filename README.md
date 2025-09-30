@@ -9,6 +9,7 @@ https://github.com/jonas-koeritz/Taktische-Zeichen
 Shapes u. Bibliotheken für Microsoft VISIO zu generieren...
 
 Ich verwende dazu ein selbstgeschriebenes ---- LibreAutomate ---- 
+LibreAutomate is a C# script editor and library for automation of tasks of any kind and complexity on Windows.
 (https://github.com/qgindi/LibreAutomate) - I Love it!!! -
 Programm und selbstgeschriebene VISIO Makros u. ADDINS...
 
