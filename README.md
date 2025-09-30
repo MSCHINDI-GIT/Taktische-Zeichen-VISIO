@@ -14,8 +14,10 @@ https://github.com/qgindi/LibreAutomate) - I Love it!!! -
 Programm und selbstgeschriebene VISIO Makros u. ADDINS ("COM-Add-In") um die generierten SVG's zu importieren, und dann die MS-VISIO Shapes und Bibliotheken zu erzeugen und automatisch zu benennen...
 
 Ich beziehe mich bei den Grafiken auf die Lizenz:
-Creative Commons Attribution 4.0 International License cc-by
-und hoffe damit keine anderen Urheberrechte zu verletzen...
+
+Creative Commons Attribution 4.0 International License cc-by,
+
+und hoffe damit keine anderen Urheberrechte zu verletzen - sonst turs ma leid ;-)
 
 Liebe Grüsse vom Land Oberösterreich
 
