@@ -18,7 +18,7 @@ Es gibt keine einheitlichen Symbol für den Katastrophenhilfsdienst, das für al
 Regionale Unterschiede: Die Symbole sind auch oft auch eine Auftragsarbeit der jeweiligen Organisationen und somit urheberrechtlich geschützt. 
 Nutzungsbedingungen prüfen: Die Nutzung dieser Symbole ist in der Regel auf die Organisation beschränkt, die diese verwendet. 
 
-Ich beziehe mich bei meinen verwendeten Grafiken (der oberen github-Web-Links) auf die Lizenz:
+Ich beziehe mich bei den hier verwendeten Grafiken (der oberen github-Web-Links) auf die Lizenz:
 
 Creative Commons Attribution 4.0 International License cc-by,
 
