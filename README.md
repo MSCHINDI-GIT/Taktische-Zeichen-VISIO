@@ -17,7 +17,7 @@ Ich beziehe mich bei den Grafiken auf die Lizenz:
 
 Creative Commons Attribution 4.0 International License cc-by,
 
-und hoffe damit keine anderen Urheberrechte zu verletzen - sonst tuats ma leid für die beleidigten ;-)
+und hoffe damit keine anderen Urheberrechte zu verletzen - sonst tuats ma leid für die Beleidigten ;-)
 
 Liebe Grüsse vom Land Oberösterreich
 
