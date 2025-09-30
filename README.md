@@ -8,6 +8,10 @@ https://github.com/jonas-koeritz/Taktische-Zeichen
 
 Shapes u. Bibliotheken für Microsoft VISIO zu generieren...
 
+Ich verwende dazu ein selbstgeschriebenes ---- LibreAutomate ---- 
+(https://github.com/qgindi/LibreAutomate)  Love it
+Programm...
+
 Liebe Grüsse vom Land Oberösterreich
 
 M. Schindlauer
