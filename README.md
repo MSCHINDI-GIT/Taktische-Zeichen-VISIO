@@ -27,6 +27,10 @@ Licensed under the Apache License, Version 2.0 (the "License"); you may not use 
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
+und:
+
+Sie müssen sich keine Sorgen um ein Copyright auf taktische Zeichen machen, da diese primär der Verständigung und dem allgemeinem Wohl dienen!
+
 und hoffe damit keine anderen Urheberrechte zu verletzen - sonst tuats ma leid für die Beleidigten ;-)
 
 Liebe Grüsse vom Land Oberösterreich
