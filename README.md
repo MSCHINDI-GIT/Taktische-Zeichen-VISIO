@@ -14,7 +14,7 @@ https://github.com/qgindi/LibreAutomate) - I Love it!!! -
 Programm und selbstgeschriebene VISIO Makros u. ADDINS ("COM-Add-In") um die generierten SVG's zu importieren, und dann die MS-VISIO Shapes und Bibliotheken zu erzeugen und automatisch zu benennen...
 
 Weiters zu beachten:
-Regionale Unterschiede: Es gibt keine einheitlichen Symbol für den Katastrophenhilfsdienst, das für alle Organisationen und (Bundes-) Länder gilt. 
+Regionale Unterschiede: Es gibt keine einheitlichen Symbole für den Katastrophenhilfsdienst, die für alle Organisationen und (Bundes-) Länder gelten. 
 Die Symbole sind auch oft auch eine Auftragsarbeit der jeweiligen Organisationen und somit urheberrechtlich geschützt. 
 Bei diesen sind daher Nutzungsbedingungen zu prüfen: Die Nutzung dieser Symbole ist in der Regel auf die Organisation beschränkt, die diese verwendet. 
 
