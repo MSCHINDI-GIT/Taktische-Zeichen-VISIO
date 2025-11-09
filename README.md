@@ -33,6 +33,9 @@ Sie müssen sich keine Sorgen um ein Copyright auf taktische Zeichen machen, da 
 
 und hoffe damit keine anderen Urheberrechte zu verletzen - sonst tuats ma leid für die Beleidigten ;-)
 
+Update 2025-11:
+Jetzt als neuere *.vssx Dateien und OHNE (MEINE) Copyright-Einträge...
+
 Liebe Grüsse vom Land Oberösterreich
 
 M. Schindlauer
