@@ -36,7 +36,7 @@ und hoffe damit keine anderen Urheberrechte zu verletzen - sonst tuats ma leid f
 Update 2025-11:
 Jetzt als neuere *.vssx Dateien und OHNE (MEINE) Copyright-Einträge...
 
-Tip: Falls ein Shape bei Grössenänderung ein unerwartetes Verhalten zeigt (dies kann bei importierten SVG-Grafiken leider auftreten...) - dann dieses Shapes auf dem Zeichenblatt auswählen, als EMF exportieren und dann als Bilder wieder ins die Zeichnung einfügen (übrigens so machen es auch manche Firmen mit deren Shapes - siehe z.B.: VISIO Shapes, Created by Visimation Inc.)
+Tip: Falls ein Shape bei Grössenänderung ein unerwartetes Verhalten zeigt (dies kann bei importierten SVG-Grafiken leider auftreten...) - dann dieses Shapes auf dem Zeichenblatt auswählen, als EMF exportieren und dann als Bild wieder ins die Zeichnung einfügen (übrigens so machen es auch manche Firmen mit deren Shapes - siehe z.B.: VISIO Shapes, Created by Visimation Inc.)
 
 Liebe Grüsse vom Land Oberösterreich
 
