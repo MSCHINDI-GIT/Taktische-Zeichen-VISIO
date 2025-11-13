@@ -35,6 +35,7 @@ und hoffe damit keine anderen Urheberrechte zu verletzen - sonst tuats ma leid f
 
 Update 2025-11:
 Jetzt mit neueren *.vssx Dateien und OHNE (MEINE) Copyright-Einträge...
+
 Sie können vorhandene *.vss Dateien in Ordnern (u. Unterordnern davon) ganz einfach mit einem PowerShell Script konvertieren:
 siehe Convert_vss_to_vssx.ps1 im Anhang (Pfad des Schablonen Ordners ist anzupassen...)
 
