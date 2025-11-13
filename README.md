@@ -36,9 +36,7 @@ und hoffe damit keine anderen Urheberrechte zu verletzen - sonst tuats ma leid f
 Update 2025-11:
 Jetzt mit neueren *.vssx Dateien und OHNE (MEINE) Copyright-Einträge...
 Sie können vorhandene *.vss Dateien in Ordnern (u. Unterordnern davon) ganz einfach mit einem PowerShell konvertieren:
-Folgende Zeilen als z.B.: Convert_vss_to_vssx.ps1 speichern:
-
-
+siehe Convert_vss_to_vssx.ps1 im Anhang (Pfad des Schablonen Ordners ist anzupassen...)
 
 Tip: Falls ein Shape bei Grössenänderung ein unerwartetes Verhalten zeigt (dies kann bei importierten (SVG-) Vektor-Grafiken leider auftreten...) - dann dieses Shapes auf dem Zeichenblatt auswählen, kopieren dann mit "Inhalte einfügen" als Bild (Erweiterte Metadatei = EMF) wieder in die Zeichnung einfügen (übrigens so machen es auch manche Firmen mit deren Shapes - siehe z.B.: VISIO Shapes, Created by Visimation Inc. - siehe URL=https://visiozone.com/?p=52) von Visimation Inc. ALIAS ShapeSource.com.
 
